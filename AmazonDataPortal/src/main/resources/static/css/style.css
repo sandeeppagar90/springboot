@@ -1,0 +1,35 @@
+.form {
+	background-color: #efefef;
+	width: 400px;
+	height: 190px;
+	border-radius: 7px;
+	padding: 20px;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th, td {
+	text-align: left;
+	padding: 8px;
+}
+
+tr:nth-child(even) {
+	background-color: #f2f2f2
+}
+
+th {
+	background-color: #4CAF50;
+	color: white;
+}
+
+.input-size {
+	width: 172px;
+	height: 22px;
+}
+
+.font-color {
+	color: red;
+}
